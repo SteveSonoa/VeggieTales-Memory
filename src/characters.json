@@ -2,61 +2,73 @@
   {
     "id": 1,
     "img": "archibald",
-    "clicked": false
+    "clicked": false,
+    "key": 1
   },
   {
     "id": 2,
     "img": "bob",
-    "clicked": false
+    "clicked": false,
+    "key": 2
   },
   {
     "id": 3,
     "img": "henry",
-    "clicked": false
+    "clicked": false,
+    "key": 3
   },
   {
     "id": 4,
     "img": "jimmy",
-    "clicked": false
+    "clicked": false,
+    "key": 4
   },
   {
     "id": 5,
     "img": "junior",
-    "clicked": false
+    "clicked": false,
+    "key": 5
   },
   {
     "id": 6,
     "img": "larry",
-    "clicked": false
+    "clicked": false,
+    "key": 6
   },
   {
     "id": 7,
     "img": "larryboy",
-    "clicked": false
+    "clicked": false,
+    "key": 7
   },
   {
     "id": 8,
     "img": "laura",
-    "clicked": false
+    "clicked": false,
+    "key": 8
   },
   {
     "id": 9,
     "img": "libby",
-    "clicked": false
+    "clicked": false,
+    "key": 9
   },
   {
     "id": 10,
     "img": "madame",
-    "clicked": false
+    "clicked": false,
+    "key": 10
   },
   {
     "id": 11,
     "img": "motato",
-    "clicked": false
+    "clicked": false,
+    "key": 11
   },
   {
     "id": 12,
     "img": "penelope",
-    "clicked": false
+    "clicked": false,
+    "key": 12
   }
 ]
