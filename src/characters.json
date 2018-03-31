@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "img": "archibald",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "img": "bob",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "img": "henry",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "img": "jimmy",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "img": "junior",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "img": "larry",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "img": "larryboy",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "img": "laura",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "img": "libby",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "img": "madame",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "img": "motato",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "img": "penelope",
+    "clicked": false
+  }
+]
